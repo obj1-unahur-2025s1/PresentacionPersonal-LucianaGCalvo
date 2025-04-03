@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.png)
+![Logo UNAHUR](./PatitoGift.gif)
 
 # Programación con objetos I
 ## Presentación Personal
