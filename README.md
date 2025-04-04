@@ -1,4 +1,4 @@
-![Logo UNAHUR](./PatitoGift.gif)
+![Patito Lindo](./PatitoGift.gif)
 
 # Programación con objetos I
 ## Presentación Personal
@@ -19,3 +19,4 @@
   * Michis😻.
 
 # Muchas gracias por leer 🫰
+![Gatito Saludando](./GatitoBeso.gif).
